@@ -1,0 +1,25 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        tools:context=".Activity_RemoteControl">
+
+    <item android:id="@+id/action_from_left"
+        android:title="Slide in from left"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/action_in_and_out"
+        android:title="Slide in and out"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/action_combined"
+        android:title="Combined animation"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/action_others"
+        android:title="Others"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+</menu>

@@ -1,0 +1,4 @@
+1. Animating fragment transition from RecyclerView fragment to MovieDetail fragment, using the picture as the shared element
+2. Animate activity transition
+3. State List Drawable
+4. 9 patch Image
